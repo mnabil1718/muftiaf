@@ -1,0 +1,145 @@
+/*===========INDEX==============*/
+.link {
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+}
+/*===========INDEX END==============*/
+
+.banner-info {
+    background-image: url(../images/corona.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 750px;
+}
+
+.banner-index {
+    background-image: url(../images/c19.jpg) !important;
+    background-position: center top;
+    background-repeat: no-repeat;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 750px;
+}
+
+.banner-fakta {
+    background-image: url(../images/banner-fakta.jpg) !important;
+    background-position: center top;
+    background-repeat: no-repeat;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 750px;
+}
+
+#global-title {
+    margin-bottom: 3rem;
+}
+
+/*============CARD====================*/
+.card {
+    padding: 3rem;
+    border-radius: 0.7rem;
+}
+
+#card-meninggal {
+    background-color: #ef5350;
+}
+
+#card-sembuh {
+    background-color: #7986cb !important;
+}
+
+#card-positif {
+    background-color: #ffa000 !important;
+}
+
+.card-body h4,
+h3 {
+    color: white;
+}
+
+.card-subtitle {
+    font-weight: bold;
+}
+
+.card-site {
+    background-color: #5cdb95;
+    box-shadow: 0px 5px 5px #e5e5e5;
+}
+
+.card-site:hover {
+    transition: 0.5s ease-out;
+    background-color: #343a40;
+}
+
+.card-site2 {
+    background-color: #5bc0de;
+}
+
+.card-site2:hover {
+    transition: 0.5s ease-out;
+    background-color: #367384;
+}
+/*============CARD END====================*/
+
+.table-container-cuy {
+    margin-top: 3rem !important;
+    height: 300px !important;
+    overflow: scroll;
+}
+
+table,
+thead,
+tr,
+tbody,
+th,
+td {
+    text-align: center;
+}
+
+.table td {
+    text-align: center;
+}
+
+.banner-indo {
+    background-image: url(../images/indonesia3.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/*======================CHART============================*/
+.chart-container {
+    width: 80% !important;
+    height: auto !important;
+    overflow: hidden;
+}
+/*======================CHART END============================*/
+
+/*=========================NEWS==============================*/
+.news-index {
+    background-color: #5bc0de;
+}
+
+.news-header {
+    color: white;
+}
+.news-list {
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+}
+/*=========================NEWS END==========================*/
